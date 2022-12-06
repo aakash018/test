@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T06:32:03.811Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.2.2" etag="G69mTpFPXN6pNqPg4_kS" type="github"><diagram id="PNBoAC_027AeBVZ4um7i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-06T06:47:26.392Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U-QuFQiWWx5H-KlzjALO" version="20.2.2" type="github">
+  <diagram id="PNBoAC_027AeBVZ4um7i" name="Page-1">
+    <mxGraphModel dx="1108" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nAxaNNjwSp-Nt-ZjSCP-1" target="1nAxaNNjwSp-Nt-ZjSCP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="1nAxaNNjwSp-Nt-ZjSCP-1" target="1nAxaNNjwSp-Nt-ZjSCP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Online Food Ordering System&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="325" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-2" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="135" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-3" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="10" y="135" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1.006;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191.07999999999993" y="196.97000000000003" as="sourcePoint" />
+            <mxPoint x="330" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Food Order&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-7" value="Menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="227" y="156" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-9" value="Menu Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="156" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.027;exitY=-0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1nAxaNNjwSp-Nt-ZjSCP-9" target="1nAxaNNjwSp-Nt-ZjSCP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-13" value="Order Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="525" y="126" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1.006;exitY=0.156;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.335;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1nAxaNNjwSp-Nt-ZjSCP-3" target="1nAxaNNjwSp-Nt-ZjSCP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-15" value="Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="125" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.995;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.844;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1nAxaNNjwSp-Nt-ZjSCP-2" target="1nAxaNNjwSp-Nt-ZjSCP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Payment Verification&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="525" y="185" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=1;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1nAxaNNjwSp-Nt-ZjSCP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="217" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nAxaNNjwSp-Nt-ZjSCP-19" value="Order Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
